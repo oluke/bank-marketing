@@ -65,11 +65,11 @@ The dataset is sourced from the UCI Machine Learning Repository: [Bank Marketing
 
 ### Key Insights:
 - **Call Duration**:
-    ![Call Duration](images/call_duration.png)
   - Longer calls correlate with a higher likelihood of term deposit subscription.
+  - ![Call Duration](images/call_duration.png)
 - **Marital Status**:
-    ![Marital](images/marital.png)
   - Married clients showed higher deposits, followed by singles.
+  - ![Marital](images/marital.png)
 - **Job Roles**:
   - Administrative staff, technicians, and blue-collar workers were the top contributors to deposits.
 - **Seasonality**:
