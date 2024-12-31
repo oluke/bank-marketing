@@ -110,7 +110,7 @@ The dataset is sourced from the UCI Machine Learning Repository: [Bank Marketing
 
 ### ROC:
 ![Call Duration](images/roc.png)
-- The model achieved a high ROC score, demonstrating robust discriminatory power.
+- The best model achieved a high ROC score, demonstrating robust discriminatory power.
 
 ---
 
