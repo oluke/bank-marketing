@@ -73,6 +73,8 @@ The dataset is sourced from the UCI Machine Learning Repository: [Bank Marketing
   - Administrative staff, technicians, and blue-collar workers were the top contributors to deposits.
 - **Seasonality**:
   - Most deposits occurred during May, aligning with the start of the bank's fiscal period.
+
+
 ![Call Duration](images/ecom_indicators.png)
 - **Economic Indicators**:
   - High consumer price index and employee variation rate positively influenced deposits.
