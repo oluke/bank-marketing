@@ -75,7 +75,7 @@ The dataset is sourced from the UCI Machine Learning Repository: [Bank Marketing
     ![Job](images/job.png)
 - **Seasonality**:
   - Most deposits occurred during May, aligning with the start of the bank's fiscal period.
-    ![Seasonality](images/sasonality.png)
+    ![Seasonality](images/seasonality.png)
 - **Economic Indicators**:
   - High consumer price index and employee variation rate positively influenced deposits.
 
