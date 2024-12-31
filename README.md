@@ -83,6 +83,9 @@ The dataset is sourced from the UCI Machine Learning Repository: [Bank Marketing
 
 ## Model Development
 
+### Feature Selection
+![Call Duration](images/features.png)
+- The bar plot shows the importance of features based on their impact on the output. The top 15 features are selected.
 ### Train-Test Split:
 - **Training Data**: 80%
 - **Testing Data**: 20%
@@ -105,8 +108,9 @@ The dataset is sourced from the UCI Machine Learning Repository: [Bank Marketing
 - **True Negatives**: 178
 - **Precision**: 94% (Important for reducing false positives in marketing).
 
-### ROC-AUC:
-- The model achieved a high AUC score, demonstrating robust discriminatory power.
+### ROC:
+![Call Duration](images/roc.png)
+- The model achieved a high ROC score, demonstrating robust discriminatory power.
 
 ---
 
